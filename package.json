@@ -1,0 +1,18 @@
+{
+  "name": "node6middleware",
+  "version": "1.0.0",
+  "description": "logging middleware using server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "middleware",
+    "server"
+  ],
+  "author": "saurabh shrikhande",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
